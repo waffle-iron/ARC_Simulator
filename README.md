@@ -6,7 +6,11 @@
 https://www65.atwiki.jp/nenohitohatiue/pages/16.html
 
 ### カード一覧
+#### Wiki
 https://www65.atwiki.jp/nenohitohatiue/pages/17.html
+
+#### データシート（Google スプレッドシート）
+https://docs.google.com/spreadsheets/d/1N7TNyO-j2xJMPP3niroZvdbha7gja0HmfAg6n2wKXUE/pubhtml
 
 ### 用語集
 https://www65.atwiki.jp/nenohitohatiue/pages/14.html
