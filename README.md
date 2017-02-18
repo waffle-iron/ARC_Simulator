@@ -1,18 +1,19 @@
 # ARC_Simulator
+## 概要
 `根の人 ◆aeGKBk1TiE` 氏の `【安価】IFはキル子を導くようです【札戦】` に出てくるカードゲーム `ARC` の実験シミュレータ的なもの（の予定）
 
-## ゲームルール
+### ゲームルール
 https://www65.atwiki.jp/nenohitohatiue/pages/16.html
 
-## カード一覧
+### カード一覧
 https://www65.atwiki.jp/nenohitohatiue/pages/17.html
 
-## 用語集
+### 用語集
 https://www65.atwiki.jp/nenohitohatiue/pages/14.html
 
-# ライセンス
+## ライセンス
 作成したコードに関してのライセンスはは [MIT License](https://opensource.org/licenses/mit-license.php) になります。
   
 ゲームシステムに関しての著作権は `根の人 ◆aeGKBk1TiE` 氏に帰属します。
-http://yaruoshelter.com/test/read.cgi/yaruo001/1487051905/
+http://yaruoshelter.com/test/read.cgi/yaruo001/1487051905/  
 `>>6656` での発言より、`CC-BY` 相当と判断。
