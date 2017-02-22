@@ -20,4 +20,4 @@ https://www65.atwiki.jp/nenohitohatiue/pages/14.html
   
 ゲームシステムに関しての著作権は `根の人 ◆aeGKBk1TiE` 氏に帰属します。
 http://yaruoshelter.com/test/read.cgi/yaruo001/1487051905/  
-`>>6656` での発言より、`CC-BY` 相当と判断。
+`>>6656` での発言より、非商用でのゲームシステムの利用は可という判断。
