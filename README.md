@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tar-bin/ARC_Simulator.png?label=ready&title=Ready)](https://waffle.io/tar-bin/ARC_Simulator?utm_source=badge)
 # ARC_Simulator
 ## 概要
 `根の人 ◆aeGKBk1TiE` 氏の `【安価】IFはキル子を導くようです【札戦】` に出てくるカードゲーム `ARC` の実験シミュレータ的なもの（の予定）
